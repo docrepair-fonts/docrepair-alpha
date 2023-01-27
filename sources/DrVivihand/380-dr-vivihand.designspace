@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis minimum="1" name="weight" tag="wght" maximum="1000" default="400">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="1" input="1"/>
+   <map output="400" input="400"/>
+   <map output="1000" input="1000"/>
+  </axis>
+  <axis minimum="8" name="width" tag="wdth" maximum="200" default="8">
+   <labelname xml:lang="en">Width</labelname>
+   <map output="1" input="8"/>
+   <map output="200" input="200"/>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Dr Vivihand" name="Regular" filename="masters/DrVivihand-Regular.ufo" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+    <dimension xvalue="1" name="width"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>org.docrepair-fonts.fit</key>
+   <dict>
+    <key>tgt_Regular</key>
+    <string>mux_Regular</string>
+   </dict>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Dr Vivihand" name="Regular" filename="instances/DrVivihand-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
