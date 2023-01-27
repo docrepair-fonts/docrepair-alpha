@@ -138,7 +138,7 @@
   <key>openTypeOS2TypoLineGap</key>
   <integer>190</integer>
   <key>openTypeOS2WeightClass</key>
-  <integer>252</integer>
+  <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>2</integer>
   <key>openTypeOS2WinAscent</key>
@@ -157,7 +157,7 @@
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>DrBeverlin-Reg</string>
+  <string>DrBeverlin-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
@@ -183,7 +183,7 @@
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
   <key>postscriptWeightName</key>
-  <string>Light</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
   <string>Dr Beverlin</string>
   <key>styleMapStyleName</key>

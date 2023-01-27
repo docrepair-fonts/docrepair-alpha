@@ -5,10 +5,9 @@
    <labelname xml:lang="en">Weight</labelname>
    <map output="434" input="252.169"/>
   </axis>
-  <axis minimum="1" name="width" tag="wdth" maximum="200" default="66.8896">
+  <axis minimum="1" name="width" tag="wdth" maximum="200" default="1">
    <labelname xml:lang="en">Width</labelname>
    <map output="1" input="1"/>
-   <map output="100" input="66.8896"/>
    <map output="300" input="200"/>
   </axis>
  </axes>
@@ -16,7 +15,7 @@
   <source familyname="Dr Beverlin" name="tgt_Bold" filename="masters/DrBeverlin-tgt_Bold.ufo" stylename="Bold">
    <location>
     <dimension xvalue="434" name="weight"/>
-    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
   <source familyname="Dr Beverlin" name="tgt_Regular" filename="masters/DrBeverlin-tgt_Regular.ufo" stylename="Regular">
@@ -26,13 +25,13 @@
    <features copy="1"/>
    <location>
     <dimension xvalue="229" name="weight"/>
-    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
   <source familyname="Dr Beverlin" name="tgt_Semibold" filename="masters/DrBeverlin-tgt_Semibold.ufo" stylename="Semibold">
    <location>
     <dimension xvalue="328" name="weight"/>
-    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
  </sources>

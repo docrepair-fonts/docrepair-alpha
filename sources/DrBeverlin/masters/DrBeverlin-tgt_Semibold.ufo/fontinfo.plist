@@ -138,7 +138,7 @@
   <key>openTypeOS2TypoLineGap</key>
   <integer>197</integer>
   <key>openTypeOS2WeightClass</key>
-  <integer>318</integer>
+  <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>2</integer>
   <key>openTypeOS2WinAscent</key>
@@ -183,9 +183,9 @@
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
   <key>postscriptWeightName</key>
-  <string>Light</string>
+  <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>Dr Beverlin Semi</string>
+  <string>Dr Beverlin Semibold</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>

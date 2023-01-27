@@ -8,4 +8,32 @@
   <anchor x="1031" y="1704" name="top"/>
   <anchor x="57" y="1699" name="topleft"/>
   <anchor x="1252" y="1984" name="topright"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1056</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1 130</string>
+          <string>hstem 366 123</string>
+          <string>hstem 1442 124</string>
+          <string>vstem 59 389</string>
+          <string>vstem 125 140</string>
+          <string>vstem 331 117</string>
+          <string>vstem 612 117</string>
+          <string>vstem 612 388</string>
+          <string>vstem 796 139</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

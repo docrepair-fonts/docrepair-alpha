@@ -4,26 +4,26 @@
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="111.392" y="373.875" type="curve" smooth="yes"/>
-      <point x="111.392" y="346.409"/>
-      <point x="124.718" y="332.575"/>
-      <point x="152.368" y="332.575" type="curve" smooth="yes"/>
-      <point x="675.752" y="332.575" type="line" smooth="yes"/>
-      <point x="703.402" y="332.575"/>
-      <point x="716.728" y="346.409"/>
-      <point x="716.728" y="373.875" type="curve" smooth="yes"/>
-      <point x="716.728" y="418.092"/>
-      <point x="715.937" y="462.309"/>
-      <point x="715.937" y="506.527" type="curve" smooth="yes"/>
-      <point x="715.937" y="533.626"/>
-      <point x="701.959" y="547.337"/>
-      <point x="674.959" y="547.337" type="curve" smooth="yes"/>
-      <point x="153.161" y="547.337" type="line" smooth="yes"/>
-      <point x="126.161" y="547.337"/>
-      <point x="112.183" y="533.626"/>
-      <point x="112.183" y="506.527" type="curve" smooth="yes"/>
-      <point x="112.183" y="462.309"/>
-      <point x="111.392" y="418.092"/>
+      <point x="111" y="374" type="curve" smooth="yes"/>
+      <point x="111" y="347"/>
+      <point x="124" y="333"/>
+      <point x="152" y="333" type="curve" smooth="yes"/>
+      <point x="676" y="333" type="line" smooth="yes"/>
+      <point x="704" y="333"/>
+      <point x="717" y="347"/>
+      <point x="717" y="374" type="curve" smooth="yes"/>
+      <point x="717" y="418"/>
+      <point x="716" y="463"/>
+      <point x="716" y="507" type="curve" smooth="yes"/>
+      <point x="716" y="534"/>
+      <point x="702" y="547"/>
+      <point x="675" y="547" type="curve" smooth="yes"/>
+      <point x="153" y="547" type="line" smooth="yes"/>
+      <point x="126" y="547"/>
+      <point x="112" y="534"/>
+      <point x="112" y="507" type="curve" smooth="yes"/>
+      <point x="112" y="463"/>
+      <point x="111" y="418"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dc2b5618b3c6269b6ad22e752f4e4950b4dce3aec07af45726936a46b39530727115a7cf4f62043c27747cd70353e07d3f7990c3abdb7557fcccde1b2f5b1332</string>
+    <string>e618c821f3d5573fe565c2d3d95db2add744e01d5b163316130a21981df532b9d2eb008bd33c912c73745f87b7bbe09c5083e15560f571066de2eaf25ce8fd6b</string>
     <key>hintSetList</key>
     <array>
       <dict>

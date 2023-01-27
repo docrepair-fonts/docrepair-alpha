@@ -8,22 +8,22 @@
   <anchor x="490" y="905" name="topright"/>
   <outline>
     <contour>
-      <point x="106.296" y="1399.82" type="curve" smooth="yes"/>
-      <point x="106.336" y="41.2067" type="line" smooth="yes"/>
-      <point x="106.336" y="13.7372"/>
-      <point x="119.686" y="0"/>
-      <point x="147.302" y="0" type="curve" smooth="yes"/>
-      <point x="304.818" y="0" type="line" smooth="yes"/>
-      <point x="332.434" y="0"/>
-      <point x="345.784" y="13.7372"/>
-      <point x="345.784" y="41.2067" type="curve" smooth="yes"/>
-      <point x="345.824" y="1399.82" type="line" smooth="yes"/>
-      <point x="345.824" y="1427.29"/>
-      <point x="332.477" y="1441.03"/>
-      <point x="304.858" y="1441.03" type="curve" smooth="yes"/>
-      <point x="147.262" y="1441.03" type="line" smooth="yes"/>
-      <point x="119.643" y="1441.03"/>
-      <point x="106.296" y="1427.29"/>
+      <point x="106" y="1400" type="curve" smooth="yes"/>
+      <point x="106" y="41" type="line" smooth="yes"/>
+      <point x="106" y="14"/>
+      <point x="119" y="0"/>
+      <point x="147" y="0" type="curve" smooth="yes"/>
+      <point x="305" y="0" type="line" smooth="yes"/>
+      <point x="333" y="0"/>
+      <point x="346" y="14"/>
+      <point x="346" y="41" type="curve" smooth="yes"/>
+      <point x="346" y="1400" type="line" smooth="yes"/>
+      <point x="346" y="1427"/>
+      <point x="333" y="1441"/>
+      <point x="305" y="1441" type="curve" smooth="yes"/>
+      <point x="147" y="1441" type="line" smooth="yes"/>
+      <point x="119" y="1441"/>
+      <point x="106" y="1427"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>402c691723970586d5dd30306a751dd5fc77615e770d1562f0ef9838842061a565c42321b892d30a8be86203b3ea580a7a231c90994f495d7bf530e6d995785b</string>
+    <string>90e3a5fb4ed2722d114f9e150c11403b10e98458275e0665c96982c24b7f8bda1ee781b69ea21d686e709e765364b698f4e3292a326ce1b9619e28b896cf505c</string>
     <key>hintSetList</key>
     <array>
       <dict>

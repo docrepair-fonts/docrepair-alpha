@@ -4,27 +4,27 @@
   <unicode hex="201A"/>
   <outline>
     <contour>
-      <point x="371.594" y="119.991" type="curve" smooth="yes"/>
-      <point x="371.594" y="146.955"/>
-      <point x="369.006" y="171.137"/>
-      <point x="335.676" y="171.137" type="curve" smooth="yes"/>
-      <point x="295.667" y="171.137"/>
-      <point x="253.191" y="165.24"/>
-      <point x="213.165" y="162.175" type="curve" smooth="yes"/>
-      <point x="174.21" y="159.193"/>
-      <point x="170.628" y="138.62"/>
-      <point x="170.628" y="104.8" type="curve" smooth="yes"/>
-      <point x="170.628" y="-12.5121"/>
-      <point x="74.4657" y="-79.2309"/>
-      <point x="74.4657" y="-106.629" type="curve" smooth="yes"/>
-      <point x="74.4657" y="-132.388"/>
-      <point x="152.582" y="-163.386"/>
-      <point x="169.572" y="-163.386" type="curve" smooth="yes"/>
-      <point x="175.292" y="-163.386"/>
-      <point x="180.703" y="-161.869"/>
-      <point x="185.81" y="-159.361" type="curve" smooth="yes"/>
-      <point x="284.399" y="-110.937"/>
-      <point x="371.594" y="8.01532"/>
+      <point x="372" y="120" type="curve" smooth="yes"/>
+      <point x="372" y="147"/>
+      <point x="369" y="171"/>
+      <point x="336" y="171" type="curve" smooth="yes"/>
+      <point x="296" y="171"/>
+      <point x="253" y="165"/>
+      <point x="213" y="162" type="curve" smooth="yes"/>
+      <point x="174" y="159"/>
+      <point x="171" y="139"/>
+      <point x="171" y="105" type="curve" smooth="yes"/>
+      <point x="171" y="-12"/>
+      <point x="74" y="-80"/>
+      <point x="74" y="-107" type="curve" smooth="yes"/>
+      <point x="74" y="-133"/>
+      <point x="153" y="-163"/>
+      <point x="170" y="-163" type="curve" smooth="yes"/>
+      <point x="176" y="-163"/>
+      <point x="181" y="-162"/>
+      <point x="186" y="-159" type="curve"/>
+      <point x="285" y="-111"/>
+      <point x="372" y="8"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7bfd202efe08fb3cc1f554e266727879f8902c528491272e0c4b6b61888159bdfc3c9a464300aeb610d9d58226e78c095d03897cbe48f9efb746e14c438d99c2</string>
+    <string>60c6a429a030e040c1233e5ae6ca4290382f9954e0517a5d6a3caffa0d4f448835e9e28378a418211f275fa5c75f3038a48a64af3965b3dd90a8708aa246ef5a</string>
     <key>hintSetList</key>
     <array>
       <dict>

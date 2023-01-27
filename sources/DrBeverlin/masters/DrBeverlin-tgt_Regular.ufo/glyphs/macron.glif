@@ -4,26 +4,26 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="69.749" y="1110.17" type="curve" smooth="yes"/>
-      <point x="69.749" y="1080.18"/>
-      <point x="70.121" y="1050.18"/>
-      <point x="70.3915" y="1020.19" type="curve" smooth="yes"/>
-      <point x="70.6353" y="993.159"/>
-      <point x="84.2751" y="979.522"/>
-      <point x="111.35" y="979.522" type="curve" smooth="yes"/>
-      <point x="603.784" y="979.522" type="line" smooth="yes"/>
-      <point x="630.86" y="979.522"/>
-      <point x="644.5" y="993.159"/>
-      <point x="644.743" y="1020.19" type="curve" smooth="yes"/>
-      <point x="645.013" y="1050.18"/>
-      <point x="645.384" y="1080.18"/>
-      <point x="645.384" y="1110.17" type="curve" smooth="yes"/>
-      <point x="645.384" y="1137.61"/>
-      <point x="632.032" y="1151.42"/>
-      <point x="604.425" y="1151.42" type="curve" smooth="yes"/>
-      <point x="110.708" y="1151.42" type="line" smooth="yes"/>
-      <point x="83.0994" y="1151.42"/>
-      <point x="69.749" y="1137.61"/>
+      <point x="70" y="1110" type="curve" smooth="yes"/>
+      <point x="70" y="1080"/>
+      <point x="70" y="1050"/>
+      <point x="70" y="1020" type="curve" smooth="yes"/>
+      <point x="70" y="993"/>
+      <point x="84" y="980"/>
+      <point x="111" y="980" type="curve" smooth="yes"/>
+      <point x="604" y="980" type="line" smooth="yes"/>
+      <point x="631" y="980"/>
+      <point x="645" y="993"/>
+      <point x="645" y="1020" type="curve" smooth="yes"/>
+      <point x="645" y="1050"/>
+      <point x="645" y="1080"/>
+      <point x="645" y="1110" type="curve" smooth="yes"/>
+      <point x="645" y="1137"/>
+      <point x="632" y="1151"/>
+      <point x="604" y="1151" type="curve" smooth="yes"/>
+      <point x="111" y="1151" type="line" smooth="yes"/>
+      <point x="83" y="1151"/>
+      <point x="70" y="1137"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1cac75e102ef95f5f9e99f7b00b526a77dbbc47d951226132304eb6279cb2861da8c95cdc69826f9b278e151026630468681a4f6b7c292ce8571be09f2104f30</string>
+    <string>52628eea862d5022c4dee6c3e35b2f25a0f967f6e66c21351796bcffb821da0b9d26dfe7982ba3b7bb21a1e7cfbc6161572febeb98d7c12ae6e320205099459f</string>
     <key>hintSetList</key>
     <array>
       <dict>

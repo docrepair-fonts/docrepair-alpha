@@ -6,18 +6,18 @@
   <anchor x="193" y="1375" name="top"/>
   <outline>
     <contour>
-      <point x="55.9246" y="1246.5" type="curve" smooth="yes"/>
-      <point x="55.9246" y="1172.51"/>
-      <point x="124.526" y="1115.8"/>
-      <point x="195.951" y="1115.8" type="curve" smooth="yes"/>
-      <point x="265.267" y="1115.8"/>
-      <point x="334.651" y="1172.36"/>
-      <point x="334.651" y="1244.58" type="curve" smooth="yes"/>
-      <point x="334.651" y="1318.55"/>
-      <point x="268.261" y="1374.78"/>
-      <point x="196.569" y="1374.78" type="curve" smooth="yes"/>
-      <point x="125.835" y="1374.78"/>
-      <point x="55.9246" y="1320.75"/>
+      <point x="56" y="1246" type="curve" smooth="yes"/>
+      <point x="56" y="1172"/>
+      <point x="125" y="1116"/>
+      <point x="196" y="1116" type="curve" smooth="yes"/>
+      <point x="265" y="1116"/>
+      <point x="335" y="1173"/>
+      <point x="335" y="1245" type="curve" smooth="yes"/>
+      <point x="335" y="1319"/>
+      <point x="269" y="1375"/>
+      <point x="197" y="1375" type="curve" smooth="yes"/>
+      <point x="126" y="1375"/>
+      <point x="56" y="1320"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e22c06dfa591e3204131615087767f7bfdc912b28920b067998205295f612711a86ad804790298ca029684abed4a7aca86d6afa4025520b89cd7f6eb978fc683</string>
+    <string>w79m56,1246c56,1172 125,1116 196,1116c265,1116 335,1173 335,1245c335,1319 269,1375 197,1375c126,1375 56,1320 56,1246</string>
     <key>hintSetList</key>
     <array>
       <dict>
