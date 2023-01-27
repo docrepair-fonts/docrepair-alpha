@@ -2,7 +2,7 @@
 <glyph name="ograve" format="2">
   <advance width="831"/>
   <unicode hex="00F2"/>
-  <anchor x="417" y="-0" name="bottom"/>
+  <anchor x="417" y="0" name="bottom"/>
   <anchor x="417" y="487" name="center"/>
   <anchor x="542" y="6" name="ogonek"/>
   <anchor x="670" y="1267" name="topright"/>

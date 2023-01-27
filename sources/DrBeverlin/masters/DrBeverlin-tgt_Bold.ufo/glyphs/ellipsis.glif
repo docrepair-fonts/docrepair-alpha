@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="2126"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="268.963" y="201.786" type="curve" smooth="yes"/>
+      <point x="268.963" y="86.4319"/>
+      <point x="367.453" y="0"/>
+      <point x="480.059" y="0" type="curve" smooth="yes"/>
+      <point x="595.709" y="0"/>
+      <point x="706.321" y="90.3989"/>
+      <point x="706.321" y="210.532" type="curve" smooth="yes"/>
+      <point x="706.321" y="324.956"/>
+      <point x="601.492" y="421.977"/>
+      <point x="488.653" y="421.977" type="curve" smooth="yes"/>
+      <point x="371.583" y="421.977"/>
+      <point x="268.963" y="318.493"/>
+    </contour>
+    <contour>
+      <point x="844.988" y="205.96" type="curve" smooth="yes"/>
+      <point x="844.988" y="88.8087"/>
+      <point x="948.709" y="0"/>
+      <point x="1062.5" y="0" type="curve" smooth="yes"/>
+      <point x="1176.26" y="0"/>
+      <point x="1281.01" y="88.6856"/>
+      <point x="1281.01" y="206.057" type="curve" smooth="yes"/>
+      <point x="1281.01" y="321.419"/>
+      <point x="1177.54" y="421.865"/>
+      <point x="1062.68" y="421.865" type="curve" smooth="yes"/>
+      <point x="947.516" y="421.865"/>
+      <point x="844.988" y="321.412"/>
+    </contour>
+    <contour>
+      <point x="1421.66" y="210.532" type="curve" smooth="yes"/>
+      <point x="1421.66" y="91.2683"/>
+      <point x="1526.76" y="0"/>
+      <point x="1642.94" y="0" type="curve" smooth="yes"/>
+      <point x="1755.18" y="0"/>
+      <point x="1858.03" y="85.9131"/>
+      <point x="1858.03" y="201.998" type="curve" smooth="yes"/>
+      <point x="1858.03" y="318.426"/>
+      <point x="1751.63" y="422.192"/>
+      <point x="1635.51" y="422.192" type="curve" smooth="yes"/>
+      <point x="1521.79" y="422.192"/>
+      <point x="1421.66" y="324.68"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>79001d6f955ac8114731a093b5b97a6478264aed80300be1ecce061a9d859567cf0862f30892b5ddb4d40b9813f11649bb88f7051dc1232868795258107e2ae6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 565</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="scaron" format="2">
   <advance width="795"/>
   <unicode hex="0161"/>
-  <anchor x="395" y="-0" name="bottom"/>
+  <anchor x="395" y="0" name="bottom"/>
   <anchor x="395" y="1285" name="top"/>
   <outline>
     <component base="s"/>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="79"/>
+  <unicode hex="0307"/>
+  <anchor x="193" y="929" name="_top"/>
+  <anchor x="193" y="1375" name="top"/>
+  <outline>
+    <contour>
+      <point x="55.9246" y="1246.5" type="curve" smooth="yes"/>
+      <point x="55.9246" y="1172.51"/>
+      <point x="124.526" y="1115.8"/>
+      <point x="195.951" y="1115.8" type="curve" smooth="yes"/>
+      <point x="265.267" y="1115.8"/>
+      <point x="334.651" y="1172.36"/>
+      <point x="334.651" y="1244.58" type="curve" smooth="yes"/>
+      <point x="334.651" y="1318.55"/>
+      <point x="268.261" y="1374.78"/>
+      <point x="196.569" y="1374.78" type="curve" smooth="yes"/>
+      <point x="125.835" y="1374.78"/>
+      <point x="55.9246" y="1320.75"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>238</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e22c06dfa591e3204131615087767f7bfdc912b28920b067998205295f612711a86ad804790298ca029684abed4a7aca86d6afa4025520b89cd7f6eb978fc683</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1297 337</string>
+          <string>vstem 49 364</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

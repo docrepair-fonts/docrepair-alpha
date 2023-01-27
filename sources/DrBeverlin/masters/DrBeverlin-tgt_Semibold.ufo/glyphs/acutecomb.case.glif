@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="2">
+  <advance width="279"/>
+  <anchor x="101" y="1240" name="_top"/>
+  <anchor x="273" y="1814" name="top"/>
+  <outline>
+    <contour>
+      <point x="401.316" y="1578.8" type="curve" smooth="yes"/>
+      <point x="202.912" y="1578.8" type="line" smooth="yes"/>
+      <point x="183.924" y="1578.8"/>
+      <point x="170.924" y="1571.05"/>
+      <point x="160.167" y="1555.76" type="curve" smooth="yes"/>
+      <point x="118.282" y="1496.21"/>
+      <point x="78.8504" y="1433.08"/>
+      <point x="40.0158" y="1371.45" type="curve" smooth="yes"/>
+      <point x="31.6035" y="1358.1"/>
+      <point x="21.9229" y="1341.86"/>
+      <point x="21.9229" y="1325.52" type="curve" smooth="yes"/>
+      <point x="21.9229" y="1295.31"/>
+      <point x="60.8826" y="1292.57"/>
+      <point x="82.9749" y="1292.57" type="curve" smooth="yes"/>
+      <point x="172.611" y="1292.57" type="line" smooth="yes"/>
+      <point x="185.061" y="1292.57"/>
+      <point x="194.948" y="1296.6"/>
+      <point x="204.803" y="1303.95" type="curve" smooth="yes"/>
+      <point x="282.526" y="1361.92"/>
+      <point x="357.64" y="1426.13"/>
+      <point x="433.209" y="1487.06" type="curve" smooth="yes"/>
+      <point x="448.497" y="1499.39"/>
+      <point x="484.457" y="1528.2"/>
+      <point x="484.457" y="1550.25" type="curve" smooth="yes"/>
+      <point x="484.457" y="1579.17"/>
+      <point x="419.167" y="1578.8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>265</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0f113a0fe2c01710742c585e09a4b486fcf7cb73b9757ec152d6bf5f6c13179718a0862b87ef6b554ab872ed8e2c4bc1dc06fc0cd37b162a04ae15d0eb364752</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1398 323</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

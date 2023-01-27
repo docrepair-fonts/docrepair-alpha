@@ -2,7 +2,7 @@
 <glyph name="fl" format="2">
   <advance width="872"/>
   <unicode hex="FB02"/>
-  <anchor x="477" y="-0" name="caret_1"/>
+  <anchor x="477" y="0" name="caret_1"/>
   <outline>
     <contour>
       <point x="263" y="0" type="line"/>

@@ -2,7 +2,7 @@
 <glyph name="lslash" format="2">
   <advance width="365"/>
   <unicode hex="0142"/>
-  <anchor x="198" y="-0" name="bottom"/>
+  <anchor x="198" y="0" name="bottom"/>
   <anchor x="198" y="649" name="center"/>
   <anchor x="198" y="1298" name="top"/>
   <anchor x="264" y="1036" name="topright"/>

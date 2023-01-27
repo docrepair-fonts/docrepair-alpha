@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="2">
+  <advance width="263"/>
+  <unicode hex="0335"/>
+  <anchor x="373" y="732" name="_center"/>
+  <outline>
+    <contour>
+      <point x="27.9455" y="798.787" type="curve" smooth="yes"/>
+      <point x="27.9548" y="652.175" type="line" smooth="yes"/>
+      <point x="27.9565" y="624.959"/>
+      <point x="41.6983" y="611.218"/>
+      <point x="68.9148" y="611.218" type="curve" smooth="yes"/>
+      <point x="653.774" y="611.218" type="line" smooth="yes"/>
+      <point x="681.186" y="611.218"/>
+      <point x="694.768" y="625.016"/>
+      <point x="694.768" y="652.352" type="curve" smooth="yes"/>
+      <point x="694.818" y="798.587" type="line" smooth="yes"/>
+      <point x="694.818" y="825.944"/>
+      <point x="681.273" y="839.749"/>
+      <point x="653.824" y="839.749" type="curve" smooth="yes"/>
+      <point x="68.9055" y="839.749" type="line" smooth="yes"/>
+      <point x="41.6856" y="839.749"/>
+      <point x="27.9438" y="826.007"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>355</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>80624886fa10dc0cc76d5e0eb39b1d41f8ed5a24a9564eb4b480e60b66e551fbf5d10d4206d58df6673bae59ebf93d7cb92a4bfce22c9b08512a682a2030d88d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 723 311</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

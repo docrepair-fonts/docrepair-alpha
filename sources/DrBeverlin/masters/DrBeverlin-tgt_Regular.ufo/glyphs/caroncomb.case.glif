@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="320"/>
+  <anchor x="426" y="982" name="_top"/>
+  <anchor x="436" y="1501" name="top"/>
+  <outline>
+    <contour>
+      <point x="219.074" y="1399.87" type="curve" smooth="yes"/>
+      <point x="119.607" y="1399.87" type="line" smooth="yes"/>
+      <point x="104.795" y="1399.87"/>
+      <point x="58.3293" y="1399.79"/>
+      <point x="58.3293" y="1376.46" type="curve" smooth="yes"/>
+      <point x="58.3293" y="1359.69"/>
+      <point x="80.8204" y="1338.78"/>
+      <point x="92.0183" y="1328.42" type="curve" smooth="yes"/>
+      <point x="191.976" y="1235.9"/>
+      <point x="291.54" y="1141.02"/>
+      <point x="393.982" y="1051.36" type="curve" smooth="yes"/>
+      <point x="401.868" y="1044.46"/>
+      <point x="410.93" y="1038.42"/>
+      <point x="421.835" y="1038.42" type="curve" smooth="yes"/>
+      <point x="432.849" y="1038.42"/>
+      <point x="441.947" y="1044.59"/>
+      <point x="449.846" y="1051.62" type="curve" smooth="yes"/>
+      <point x="550.791" y="1141.45"/>
+      <point x="648.858" y="1236.2"/>
+      <point x="747.71" y="1328.45" type="curve" smooth="yes"/>
+      <point x="758.857" y="1338.85"/>
+      <point x="781.079" y="1359.68"/>
+      <point x="781.079" y="1376.43" type="curve" smooth="yes"/>
+      <point x="781.079" y="1399.78"/>
+      <point x="734.844" y="1399.87"/>
+      <point x="719.992" y="1399.87" type="curve" smooth="yes"/>
+      <point x="620.737" y="1399.87" type="line" smooth="yes"/>
+      <point x="610.002" y="1399.87"/>
+      <point x="601.737" y="1396.22"/>
+      <point x="593.541" y="1389.53" type="curve" smooth="yes"/>
+      <point x="573.583" y="1373.24"/>
+      <point x="433.902" y="1243.04"/>
+      <point x="425.831" y="1243.04" type="curve" smooth="yes"/>
+      <point x="416.89" y="1243.04"/>
+      <point x="267.568" y="1374.08"/>
+      <point x="245.228" y="1390.43" type="curve" smooth="yes"/>
+      <point x="236.937" y="1396.49"/>
+      <point x="229.563" y="1399.87"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>405</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dba0ed989a476c90a9835f8e6899a7fb9e3512863c1ccf3aabfa57850b545cad1d1684d0e171d1ef993fa5a9999f53fe69ac785eb4221b84577c470855549dcb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1170 21</string>
+          <string>hstem 1610 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

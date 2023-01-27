@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="265"/>
+  <anchor x="459" y="1221" name="_top"/>
+  <anchor x="459" y="1555" name="top"/>
+  <outline>
+    <contour>
+      <point x="90.1028" y="1419.94" type="curve" smooth="yes"/>
+      <point x="90.1028" y="1349.27"/>
+      <point x="147.654" y="1288.56"/>
+      <point x="219.163" y="1288.56" type="curve" smooth="yes"/>
+      <point x="288.578" y="1288.56"/>
+      <point x="355.236" y="1349.55"/>
+      <point x="355.236" y="1420.31" type="curve" smooth="yes"/>
+      <point x="355.236" y="1491.54"/>
+      <point x="292.353" y="1553.71"/>
+      <point x="221.174" y="1553.71" type="curve" smooth="yes"/>
+      <point x="148.945" y="1553.71"/>
+      <point x="90.1028" y="1491.15"/>
+    </contour>
+    <contour>
+      <point x="541.607" y="1415.36" type="curve" smooth="yes"/>
+      <point x="541.607" y="1344.43"/>
+      <point x="602.749" y="1288.56"/>
+      <point x="672.437" y="1288.56" type="curve" smooth="yes"/>
+      <point x="742.849" y="1288.56"/>
+      <point x="807.901" y="1353.62"/>
+      <point x="807.901" y="1423.94" type="curve" smooth="yes"/>
+      <point x="807.901" y="1491.82"/>
+      <point x="747.825" y="1553.63"/>
+      <point x="679.504" y="1553.63" type="curve" smooth="yes"/>
+      <point x="603.909" y="1553.63"/>
+      <point x="541.607" y="1490.63"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>461</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a9b1a29a444794f24496405db166fae72eb20ce40773634e3454079c97318e32121abd5dd0b234f2f55064222e5fc1e0422c4d064086c87f6e23e6daeb8333c5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1460 347</string>
+          <string>vstem 75 340</string>
+          <string>vstem 554 340</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

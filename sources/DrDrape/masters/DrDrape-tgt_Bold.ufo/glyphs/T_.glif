@@ -2,7 +2,7 @@
 <glyph name="T" format="2">
   <advance width="799"/>
   <unicode hex="0054"/>
-  <anchor x="400" y="-0" name="bottom"/>
+  <anchor x="400" y="0" name="bottom"/>
   <anchor x="401" y="641" name="center"/>
   <anchor x="401" y="1428" name="top"/>
   <outline>

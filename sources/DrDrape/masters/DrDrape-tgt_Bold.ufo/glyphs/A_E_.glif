@@ -2,8 +2,8 @@
 <glyph name="AE" format="2">
   <advance width="1276"/>
   <unicode hex="00C6"/>
-  <anchor x="637" y="-0" name="bottom"/>
-  <anchor x="1024" y="-0" name="ogonek"/>
+  <anchor x="637" y="0" name="bottom"/>
+  <anchor x="1024" y="0" name="ogonek"/>
   <anchor x="741" y="1428" name="top"/>
   <anchor x="547" y="1428" name="topleft"/>
   <outline>

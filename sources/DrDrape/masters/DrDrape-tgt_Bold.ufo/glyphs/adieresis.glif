@@ -2,7 +2,7 @@
 <glyph name="adieresis" format="2">
   <advance width="815"/>
   <unicode hex="00E4"/>
-  <anchor x="401" y="-0" name="bottom"/>
+  <anchor x="401" y="0" name="bottom"/>
   <anchor x="594" y="5" name="ogonek"/>
   <anchor x="415" y="1207" name="top"/>
   <outline>

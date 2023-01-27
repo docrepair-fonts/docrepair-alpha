@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis maximum="220" minimum="80" default="100" tag="wdth" name="width">
+   <labelname xml:lang="en">Width</labelname>
+   <map input="80" output="80"/>
+   <map input="100" output="100"/>
+   <map input="220" output="300"/>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Dr Basheel" stylename="Regular" filename="masters/DrBasheel-Regular.ufo" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="100" name="width"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>org.docrepair-fonts.fit</key>
+   <dict>
+    <key>tgt_Regular</key>
+    <string>mux_Regular</string>
+   </dict>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Dr Basheel" stylename="Regular" filename="instances/DrBasheel-Regular.ufo" name="Regular">
+   <location>
+    <dimension xvalue="100" name="width"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

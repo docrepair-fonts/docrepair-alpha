@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="448"/>
+  <anchor x="358" y="1047" name="_top"/>
+  <anchor x="382" y="1581" name="top"/>
+  <outline>
+    <contour>
+      <point x="312.394" y="1488.25" type="curve" smooth="yes"/>
+      <point x="98.9883" y="1488.25" type="line" smooth="yes"/>
+      <point x="75.584" y="1488.25"/>
+      <point x="13.2959" y="1487.46"/>
+      <point x="13.2959" y="1452.14" type="curve" smooth="yes"/>
+      <point x="13.2959" y="1428.45"/>
+      <point x="39.3566" y="1399.92"/>
+      <point x="54.4991" y="1383.88" type="curve" smooth="yes"/>
+      <point x="140.365" y="1292.97"/>
+      <point x="225.506" y="1200.91"/>
+      <point x="312.474" y="1111.09" type="curve" smooth="yes"/>
+      <point x="324.477" y="1098.69"/>
+      <point x="339.387" y="1086.84"/>
+      <point x="357.543" y="1086.84" type="curve" smooth="yes"/>
+      <point x="375.974" y="1086.84"/>
+      <point x="390.933" y="1099.08"/>
+      <point x="402.894" y="1111.82" type="curve" smooth="yes"/>
+      <point x="487.241" y="1201.68"/>
+      <point x="569.851" y="1293.59"/>
+      <point x="653.224" y="1384.39" type="curve" smooth="yes"/>
+      <point x="668.034" y="1400.52"/>
+      <point x="692.858" y="1428.49"/>
+      <point x="692.858" y="1451.93" type="curve" smooth="yes"/>
+      <point x="692.858" y="1487.34"/>
+      <point x="631.768" y="1488.25"/>
+      <point x="608.165" y="1488.25" type="curve" smooth="yes"/>
+      <point x="390.806" y="1488.25" type="line" smooth="yes"/>
+      <point x="367.202" y="1488.25"/>
+      <point x="369.501" y="1454.96"/>
+      <point x="354.298" y="1454.96" type="curve" smooth="yes"/>
+      <point x="339.278" y="1454.96"/>
+      <point x="338.253" y="1488.25"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>405</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c385925705cd7ccc4602fc86d0fea4d85bc3b52682b994762d4ddb4a9be6db6a2e118afa0049d8f357ed98ba9cd9aaa0a1ca188da23225bf79d3af0d39031a5c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1170 21</string>
+          <string>hstem 1610 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

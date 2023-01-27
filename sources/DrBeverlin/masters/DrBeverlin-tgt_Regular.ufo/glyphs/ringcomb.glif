@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <advance width="167"/>
+  <unicode hex="030A"/>
+  <anchor x="317" y="897" name="_top"/>
+  <anchor x="320" y="1358" name="top"/>
+  <outline>
+    <contour>
+      <point x="65.9653" y="1174.16" type="curve" smooth="yes"/>
+      <point x="65.9653" y="1044.05"/>
+      <point x="171.897" y="967.537"/>
+      <point x="294.622" y="967.537" type="curve" smooth="yes"/>
+      <point x="413.9" y="967.537"/>
+      <point x="522.243" y="1046.99"/>
+      <point x="522.243" y="1173.43" type="curve" smooth="yes"/>
+      <point x="522.243" y="1304.7"/>
+      <point x="419.378" y="1376.96"/>
+      <point x="295.571" y="1376.96" type="curve" smooth="yes"/>
+      <point x="174.113" y="1376.96"/>
+      <point x="65.9653" y="1304.4"/>
+    </contour>
+    <contour>
+      <point x="194.816" y="1169.43" type="curve" smooth="yes"/>
+      <point x="194.816" y="1230.05"/>
+      <point x="243.351" y="1260.52"/>
+      <point x="299.343" y="1260.52" type="curve" smooth="yes"/>
+      <point x="354.214" y="1260.52"/>
+      <point x="395.327" y="1229.48"/>
+      <point x="395.327" y="1171.94" type="curve" smooth="yes"/>
+      <point x="395.327" y="1116.26"/>
+      <point x="351.861" y="1079.44"/>
+      <point x="297.876" y="1079.44" type="curve" smooth="yes"/>
+      <point x="245.002" y="1079.44"/>
+      <point x="194.816" y="1112.55"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>323</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>856a04895a4e0c4e2515df40f7a5c6e4bb152dea3c5398d10a5e7d9936697543ac6d4f9181755162eb302eb0ee337f930212ef3b7abf6ead16459965e823dec6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1103 500</string>
+          <string>vstem 56 174</string>
+          <string>vstem 417 172</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

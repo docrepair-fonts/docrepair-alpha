@@ -1,0 +1,85 @@
+#> classes
+#/> tags
+@mux_fig = [eight five four nine one seven six three two zero];
+@mux_lc = [a aacute acircumflex adieresis ae agrave aring atilde b c caron ccedilla circumflex d e eacute ecircumflex edieresis egrave eth f fi fl florin g germandbls h i iacute icircumflex idieresis idotless igrave j k l lslash m mu n ntilde o oacute ocircumflex odieresis oe ograve ordfeminine ordmasculine oslash otilde p pi q r s scaron t thorn u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z zcaron];
+@mux_ot = [.notdef acute acutecomb acutecomb.case ampersand approxequal asciicircum asciitilde asterisk at backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet caroncomb caroncomb.case cedilla cedillacomb cedillacomb.case cent circumflexcomb circumflexcomb.case colon comma copyright currency dagger daggerdbl degree dieresis dieresiscomb dieresiscomb.case divide dollar dotaccent dotaccentcomb ellipsis emdash endash equal euro exclam exclamdown foursuperior fraction grave gravecomb gravecomb.case greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright hungarumlaut hyphen infinity integral less lessequal logicalnot lozenge macron minus multiply nbspace notequal numbersign ogonek onehalf onequarter onesuperior paragraph parenleft parenright percent period periodcentered perthousand plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle radical registered ring ringcomb ringcomb.case section semicolon slash space sterling strokeshortcomb summation threequarters threesuperior tilde tildecomb tildecomb.case trademark twosuperior underscore yen];
+@mux_uc = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D Delta E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L Lslash M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron];
+#/< tags
+#< classes
+
+#/> classes
+#/> tags
+@mux_lc = [a aacute acircumflex adieresis ae agrave aring atilde b c caron ccedilla circumflex d e eacute ecircumflex edieresis egrave eth f fi fl florin g germandbls h i iacute icircumflex idieresis idotless igrave j k l lslash m mu n ntilde o oacute ocircumflex odieresis oe ograve ordfeminine ordmasculine oslash otilde p pi q r s scaron t thorn u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z zcaron];
+@mux_ot = [.notdef acute acutecomb acutecomb.case ampersand approxequal asciicircum asciitilde asterisk at backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet caroncomb caroncomb.case cedilla cedillacomb cedillacomb.case cent circumflexcomb circumflexcomb.case colon comma copyright currency dagger daggerdbl degree dieresis dieresiscomb dieresiscomb.case divide dollar dotaccent dotaccentcomb eight ellipsis emdash endash equal euro exclam exclamdown five four foursuperior fraction grave gravecomb gravecomb.case greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright hungarumlaut hyphen infinity integral less lessequal logicalnot lozenge macron minus multiply nbspace nine notequal numbersign ogonek one onehalf onequarter onesuperior paragraph parenleft parenright percent period periodcentered perthousand plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle radical registered ring ringcomb ringcomb.case section semicolon seven six slash space sterling strokeshortcomb summation three threequarters threesuperior tilde tildecomb tildecomb.case trademark two twosuperior underscore yen zero];
+@mux_uc = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D Delta E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L Lslash M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron];
+#/< tags
+#/< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+#< languagesystem
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature sups;
+  feature case;
+#< feature
+} aalt;
+feature sups {
+# Superscript
+
+#> feature
+  sub four by foursuperior;
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+#< feature
+} ordn;
+feature liga {
+# Standard Ligatures
+
+#> feature
+  sub f i by fi;
+  sub f l by fl;
+#< feature
+} liga;
+feature case {
+# Case Sensitive Forms
+
+#> feature
+  sub acutecomb by acutecomb.case;
+  sub caroncomb by caroncomb.case;
+  sub cedillacomb by cedillacomb.case;
+  sub circumflexcomb by circumflexcomb.case;
+  sub dieresiscomb by dieresiscomb.case;
+  sub gravecomb by gravecomb.case;
+  sub ringcomb by ringcomb.case;
+  sub tildecomb by tildecomb.case;
+#< feature
+} case;

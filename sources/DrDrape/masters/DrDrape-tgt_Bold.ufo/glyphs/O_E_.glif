@@ -2,9 +2,9 @@
 <glyph name="OE" format="2">
   <advance width="1323"/>
   <unicode hex="0152"/>
-  <anchor x="958" y="-0" name="bottom"/>
+  <anchor x="958" y="0" name="bottom"/>
   <anchor x="461" y="714" name="center"/>
-  <anchor x="1065" y="-0" name="ogonek"/>
+  <anchor x="1065" y="0" name="ogonek"/>
   <anchor x="953" y="1428" name="top"/>
   <anchor x="576" y="1428" name="topleft"/>
   <anchor x="907" y="1428" name="topright"/>

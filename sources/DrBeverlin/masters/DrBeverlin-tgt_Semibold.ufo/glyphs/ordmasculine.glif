@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="938"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="33.6829" y="1245.49" type="curve" smooth="yes"/>
+      <point x="33.6829" y="1004.42"/>
+      <point x="260.441" y="910.622"/>
+      <point x="468.017" y="910.622" type="curve" smooth="yes"/>
+      <point x="669.588" y="910.622"/>
+      <point x="904.317" y="1010.81"/>
+      <point x="904.317" y="1245.49" type="curve" smooth="yes"/>
+      <point x="904.317" y="1480.66"/>
+      <point x="680.172" y="1580.93"/>
+      <point x="474.709" y="1580.93" type="curve" smooth="yes"/>
+      <point x="270.737" y="1580.93"/>
+      <point x="33.6829" y="1481.93"/>
+    </contour>
+    <contour>
+      <point x="308.387" y="1243.49" type="curve" smooth="yes"/>
+      <point x="308.387" y="1337.54"/>
+      <point x="370.781" y="1389.67"/>
+      <point x="462.307" y="1389.67" type="curve" smooth="yes"/>
+      <point x="549.338" y="1389.67"/>
+      <point x="629.637" y="1342.76"/>
+      <point x="629.637" y="1247.5" type="curve" smooth="yes"/>
+      <point x="629.637" y="1157.41"/>
+      <point x="551.777" y="1098.39"/>
+      <point x="466.159" y="1098.39" type="curve" smooth="yes"/>
+      <point x="382.028" y="1098.39"/>
+      <point x="308.387" y="1155.39"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6ff297940eadeaff1d8ca95658dc24ac59fb779b6209944938b1d4103e8e39a1397f4751ee64dbc91bafc7747fc138ed3863a83f2a8a24c5784a091bb2cba820</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 250 233</string>
+          <string>hstem 255 228</string>
+          <string>hstem 260 223</string>
+          <string>hstem 551 274</string>
+          <string>hstem 1171 267</string>
+          <string>vstem 1 287</string>
+          <string>vstem 568 289</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

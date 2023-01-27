@@ -2,7 +2,7 @@
 <glyph name="ogonekcomb" format="2">
   <advance width="328"/>
   <unicode hex="0328"/>
-  <anchor x="126" y="-0" name="_ogonek"/>
+  <anchor x="126" y="0" name="_ogonek"/>
   <outline>
     <contour>
       <point x="286" y="-172" type="line"/>
