@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="909"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="287" y="-356" type="line"/>
+      <point x="856" y="1428" type="line"/>
+      <point x="622" y="1428" type="line"/>
+      <point x="53" y="-356" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w909m287,-356l856,1428l622,1428l53,-356</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -324 21</string>
+          <string>hstem 1298 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

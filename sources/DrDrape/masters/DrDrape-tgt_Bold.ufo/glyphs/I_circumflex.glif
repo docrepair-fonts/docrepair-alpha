@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="430"/>
+  <unicode hex="00CE"/>
+  <anchor x="217" y="-0" name="bottom"/>
+  <anchor x="191" y="-0" name="ogonek"/>
+  <anchor x="-30" y="1428" name="topleft"/>
+  <anchor x="217" y="1740" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflexcomb" xOffset="-17" yOffset="357"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+circumflexcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1137"/>
+  <unicode hex="00C6"/>
+  <anchor x="552" y="-0" name="bottom"/>
+  <anchor x="921" y="-0" name="ogonek"/>
+  <anchor x="656" y="1428" name="top"/>
+  <anchor x="491" y="1428" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="289" y="396" type="line"/>
+      <point x="545" y="396" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="1100" y="0" type="line"/>
+      <point x="1100" y="128" type="line"/>
+      <point x="684" y="128" type="line"/>
+      <point x="684" y="656" type="line"/>
+      <point x="1073" y="656" type="line"/>
+      <point x="1073" y="784" type="line"/>
+      <point x="684" y="784" type="line"/>
+      <point x="684" y="1300" type="line"/>
+      <point x="1100" y="1300" type="line"/>
+      <point x="1100" y="1428" type="line"/>
+      <point x="379" y="1428" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="803" type="line"/>
+      <point x="487" y="1300" type="line"/>
+      <point x="545" y="1300" type="line"/>
+      <point x="545" y="524" type="line"/>
+      <point x="312" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b86a5f0067a545223f4cd4a354c13d9b4ad2d979617cd64cbba152cc0caa9b412a7797b276395b865803db114c17fdbeba3ae4edc68c76dc0d888af7992ee293</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 78</string>
+          <string>hstem 394 78</string>
+          <string>hstem 613 78</string>
+          <string>hstem 1220 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

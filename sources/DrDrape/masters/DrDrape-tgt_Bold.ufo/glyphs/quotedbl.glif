@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="2">
+  <advance width="707"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="230" y="949" type="line"/>
+      <point x="273" y="1190" type="line"/>
+      <point x="273" y="1428" type="line"/>
+      <point x="71" y="1428" type="line"/>
+      <point x="71" y="1190" type="line"/>
+      <point x="115" y="949" type="line"/>
+    </contour>
+    <contour>
+      <point x="593" y="949" type="line"/>
+      <point x="636" y="1190" type="line"/>
+      <point x="636" y="1428" type="line"/>
+      <point x="434" y="1428" type="line"/>
+      <point x="434" y="1190" type="line"/>
+      <point x="477" y="949" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w707m230,949l273,1190l273,1428l71,1428l71,1190l115,949m593,949l636,1190l636,1428l434,1428l434,1190l477,949</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 985 21</string>
+          <string>hstem 1298 -20</string>
+          <string>vstem 83 80</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

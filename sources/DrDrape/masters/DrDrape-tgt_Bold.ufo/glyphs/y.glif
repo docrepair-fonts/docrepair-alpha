@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="2">
+  <advance width="797"/>
+  <unicode hex="0079"/>
+  <anchor x="684" y="-98" name="bottom"/>
+  <anchor x="412" y="973" name="top"/>
+  <outline>
+    <contour>
+      <point x="199" y="-341" type="curve" smooth="yes"/>
+      <point x="453" y="-341"/>
+      <point x="540" y="-258"/>
+      <point x="573" y="-54" type="curve"/>
+      <point x="777" y="973" type="line"/>
+      <point x="554" y="973" type="line"/>
+      <point x="494" y="534" type="line"/>
+      <point x="447" y="177" type="line"/>
+      <point x="381" y="177" type="line"/>
+      <point x="320" y="534" type="line"/>
+      <point x="254" y="973" type="line"/>
+      <point x="30" y="973" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="354" y="-73" type="line"/>
+      <point x="342" y="-131"/>
+      <point x="310" y="-155"/>
+      <point x="197" y="-155" type="curve" smooth="yes"/>
+      <point x="153" y="-155"/>
+      <point x="85" y="-152"/>
+      <point x="47" y="-151" type="curve"/>
+      <point x="47" y="-330" type="line"/>
+      <point x="91" y="-336"/>
+      <point x="154" y="-341"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b69e8e77e5cccc0f5fa95ff3f772fb06c80d606891847a0b1e0c3718bf94f08903bb4569056fee0c0823620028094fcc2f36b60d94de6ad4c522a2dc03d93112</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -328 70</string>
+          <string>hstem 0 21</string>
+          <string>hstem 973 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

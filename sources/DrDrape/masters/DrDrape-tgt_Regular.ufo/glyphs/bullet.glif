@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="864"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="782" y="586" type="line"/>
+      <point x="782" y="862" type="line"/>
+      <point x="83" y="862" type="line"/>
+      <point x="83" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w864m782,586l782,862l83,862l83,586</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 546 21</string>
+          <string>hstem 769 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

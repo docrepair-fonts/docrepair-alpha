@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <advance width="402"/>
+  <unicode hex="030A"/>
+  <anchor x="202" y="1071" name="_top"/>
+  <anchor x="202" y="1494" name="top"/>
+  <outline>
+    <contour>
+      <point x="202" y="1134" type="curve" smooth="yes"/>
+      <point x="283" y="1134"/>
+      <point x="346" y="1214"/>
+      <point x="346" y="1312" type="curve" smooth="yes"/>
+      <point x="346" y="1409"/>
+      <point x="283" y="1489"/>
+      <point x="202" y="1489" type="curve" smooth="yes"/>
+      <point x="121" y="1489"/>
+      <point x="55" y="1409"/>
+      <point x="55" y="1312" type="curve" smooth="yes"/>
+      <point x="55" y="1214"/>
+      <point x="121" y="1134"/>
+    </contour>
+    <contour>
+      <point x="202" y="1259" type="curve" smooth="yes"/>
+      <point x="183" y="1259"/>
+      <point x="170" y="1281"/>
+      <point x="170" y="1312" type="curve" smooth="yes"/>
+      <point x="170" y="1341"/>
+      <point x="183" y="1364"/>
+      <point x="202" y="1364" type="curve" smooth="yes"/>
+      <point x="219" y="1364"/>
+      <point x="232" y="1341"/>
+      <point x="232" y="1312" type="curve" smooth="yes"/>
+      <point x="232" y="1281"/>
+      <point x="219" y="1259"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>03d60baaaed471785cf79a5c4ed96ffe9b6b28a98d61c4237fc3f3aff1b8367fa2fadc9d50a2bf9b39d14882826ff59038edcf201ac1fce96e789d96237a7a99</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1034 21</string>
+          <string>hstem 1233 -20</string>
+          <string>vstem 117 54</string>
+          <string>vstem 261 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

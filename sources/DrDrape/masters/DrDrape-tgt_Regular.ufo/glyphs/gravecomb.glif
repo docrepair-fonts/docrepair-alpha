@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+  <advance width="354"/>
+  <unicode hex="0300"/>
+  <anchor x="241" y="1071" name="_top"/>
+  <anchor x="154" y="1356" name="top"/>
+  <outline>
+    <contour>
+      <point x="269" y="1142" type="line"/>
+      <point x="186" y="1355" type="line"/>
+      <point x="96" y="1355" type="line"/>
+      <point x="184" y="1142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w354m269,1142l186,1355l96,1355l184,1142</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1038 21</string>
+          <string>hstem 1215 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

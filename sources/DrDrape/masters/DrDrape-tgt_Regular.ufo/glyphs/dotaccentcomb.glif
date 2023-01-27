@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="240"/>
+  <unicode hex="0307"/>
+  <anchor x="125" y="1071" name="_top"/>
+  <anchor x="125" y="1258" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="1142" type="line"/>
+      <point x="171" y="1257" type="line"/>
+      <point x="78" y="1257" type="line"/>
+      <point x="78" y="1142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w240m171,1142l171,1257l78,1257l78,1142</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1038 21</string>
+          <string>hstem 1115 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="907"/>
+  <unicode hex="00A5"/>
+  <anchor x="457" y="-0" name="bottom"/>
+  <anchor x="447" y="1428" name="top"/>
+  <anchor x="13" y="1428" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="573" y="0" type="line"/>
+      <point x="573" y="99" type="line"/>
+      <point x="801" y="99" type="line"/>
+      <point x="801" y="185" type="line"/>
+      <point x="573" y="185" type="line"/>
+      <point x="573" y="237" type="line"/>
+      <point x="801" y="237" type="line"/>
+      <point x="801" y="323" type="line"/>
+      <point x="573" y="323" type="line"/>
+      <point x="573" y="346" type="line"/>
+      <point x="573" y="348" type="line"/>
+      <point x="894" y="1428" type="line"/>
+      <point x="654" y="1428" type="line"/>
+      <point x="546" y="1070" type="line"/>
+      <point x="482" y="654" type="line"/>
+      <point x="427" y="654" type="line"/>
+      <point x="363" y="1070" type="line"/>
+      <point x="256" y="1428" type="line"/>
+      <point x="13" y="1428" type="line"/>
+      <point x="338" y="348" type="line"/>
+      <point x="338" y="346" type="line"/>
+      <point x="338" y="323" type="line"/>
+      <point x="110" y="323" type="line"/>
+      <point x="110" y="237" type="line"/>
+      <point x="338" y="237" type="line"/>
+      <point x="338" y="185" type="line"/>
+      <point x="110" y="185" type="line"/>
+      <point x="110" y="99" type="line"/>
+      <point x="338" y="99" type="line"/>
+      <point x="338" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>59e0a83ac39ddca6aa495266b934a0a1f707c6155612f9ff63528a1f4da827b5581df9d442260d70869c34f801f365e2b41175ac85298b6a7c8c7b08c67d4e87</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 182 130</string>
+          <string>hstem 1298 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

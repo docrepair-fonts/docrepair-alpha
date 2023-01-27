@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="809"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="756" y="-106" type="line"/>
+      <point x="756" y="-71" type="line"/>
+      <point x="53" y="-71" type="line"/>
+      <point x="53" y="-106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w809m756,-106l756,-71l53,-71l53,-106</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -97 21</string>
+          <string>hstem -65 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

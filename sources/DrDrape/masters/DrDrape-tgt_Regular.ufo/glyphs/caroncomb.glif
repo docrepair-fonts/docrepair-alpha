@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <advance width="423"/>
+  <unicode hex="030C"/>
+  <anchor x="211" y="1071" name="_top"/>
+  <anchor x="211" y="1356" name="top"/>
+  <outline>
+    <contour>
+      <point x="246" y="1144" type="line"/>
+      <point x="324" y="1356" type="line"/>
+      <point x="244" y="1356" type="line"/>
+      <point x="211" y="1226" type="line"/>
+      <point x="177" y="1356" type="line"/>
+      <point x="97" y="1356" type="line"/>
+      <point x="175" y="1144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w423m246,1144l324,1356l244,1356l211,1226l177,1356l97,1356l175,1144</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1039 21</string>
+          <string>hstem 1216 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

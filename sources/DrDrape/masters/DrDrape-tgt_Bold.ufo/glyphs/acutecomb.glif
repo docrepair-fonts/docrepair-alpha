@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="371"/>
+  <unicode hex="0301"/>
+  <anchor x="120" y="1071" name="_top"/>
+  <anchor x="120" y="1383" name="top"/>
+  <outline>
+    <contour>
+      <point x="195" y="1142" type="line"/>
+      <point x="327" y="1382" type="line"/>
+      <point x="185" y="1382" type="line"/>
+      <point x="62" y="1142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w371m195,1142l327,1382l185,1382l62,1142</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1038 21</string>
+          <string>hstem 1215 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

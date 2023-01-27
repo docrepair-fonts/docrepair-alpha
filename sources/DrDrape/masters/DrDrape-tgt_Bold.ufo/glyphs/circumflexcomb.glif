@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="465"/>
+  <unicode hex="0302"/>
+  <anchor x="234" y="1071" name="_top"/>
+  <anchor x="234" y="1383" name="top"/>
+  <outline>
+    <contour>
+      <point x="214" y="1144" type="line"/>
+      <point x="233" y="1249" type="line"/>
+      <point x="252" y="1144" type="line"/>
+      <point x="394" y="1144" type="line"/>
+      <point x="296" y="1383" type="line"/>
+      <point x="169" y="1383" type="line"/>
+      <point x="71" y="1144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w465m214,1144l233,1249l252,1144l394,1144l296,1383l169,1383l71,1144</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1039 21</string>
+          <string>hstem 1216 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

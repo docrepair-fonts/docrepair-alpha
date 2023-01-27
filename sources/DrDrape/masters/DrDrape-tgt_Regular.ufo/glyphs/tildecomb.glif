@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <advance width="497"/>
+  <unicode hex="0303"/>
+  <anchor x="249" y="1068" name="_top"/>
+  <anchor x="249" y="1291" name="top"/>
+  <outline>
+    <contour>
+      <point x="319" y="1285" type="line"/>
+      <point x="317" y="1247"/>
+      <point x="314" y="1226"/>
+      <point x="297" y="1226" type="curve" smooth="yes"/>
+      <point x="263" y="1226"/>
+      <point x="259" y="1294"/>
+      <point x="203" y="1294" type="curve" smooth="yes"/>
+      <point x="157" y="1294"/>
+      <point x="131" y="1248"/>
+      <point x="126" y="1149" type="curve"/>
+      <point x="179" y="1149" type="line"/>
+      <point x="181" y="1188"/>
+      <point x="184" y="1212"/>
+      <point x="205" y="1212" type="curve" smooth="yes"/>
+      <point x="241" y="1212"/>
+      <point x="242" y="1143"/>
+      <point x="297" y="1143" type="curve" smooth="yes"/>
+      <point x="343" y="1143"/>
+      <point x="368" y="1190"/>
+      <point x="371" y="1285" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>184d77f09ee9400234c9e3b257390cc8b47503171328d51a674d06e971be7fc783503909a5cbdffb4a35dfd8f6bba0677b023f8a347d02e24b5f7eb01ec9f4e7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1045 107</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

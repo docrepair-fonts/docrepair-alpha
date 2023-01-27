@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="838"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="749" y="622" type="line"/>
+      <point x="749" y="739" type="line"/>
+      <point x="90" y="739" type="line"/>
+      <point x="90" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="837" type="line"/>
+      <point x="490" y="979" type="line"/>
+      <point x="351" y="979" type="line"/>
+      <point x="351" y="837" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="383" type="line"/>
+      <point x="490" y="524" type="line"/>
+      <point x="351" y="524" type="line"/>
+      <point x="351" y="383" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w838m749,622l749,739l90,739l90,622m490,837l490,979l351,979l351,837m490,383l490,524l351,524l351,383</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 413 104</string>
+          <string>hstem 603 69</string>
+          <string>hstem 757 106</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

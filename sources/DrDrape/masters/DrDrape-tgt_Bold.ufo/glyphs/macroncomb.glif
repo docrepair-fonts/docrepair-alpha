@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+  <advance width="654"/>
+  <unicode hex="0304"/>
+  <anchor x="330" y="1071" name="_top"/>
+  <anchor x="330" y="1259" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="1128" type="line"/>
+      <point x="547" y="1128" type="line"/>
+      <point x="547" y="1237" type="line"/>
+      <point x="97" y="1237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w654m97,1128l547,1128l547,1237l97,1237</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1038 21</string>
+          <string>hstem 1092 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

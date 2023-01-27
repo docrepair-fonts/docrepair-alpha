@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+  <advance width="899"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="879" y="1108" type="line"/>
+      <point x="538" y="1108" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="1108" type="line"/>
+      <point x="21" y="1108" type="line"/>
+      <point x="21" y="1268" type="line"/>
+      <point x="362" y="1268" type="line"/>
+      <point x="362" y="1722" type="line"/>
+      <point x="538" y="1722" type="line"/>
+      <point x="538" y="1268" type="line"/>
+      <point x="879" y="1268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w899m879,1108l538,1108l538,0l362,0l362,1108l21,1108l21,1268l362,1268l362,1722l538,1722l538,1268l879,1268</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 954 21</string>
+          <string>hstem 1304 -20</string>
+          <string>vstem 152 55</string>
+          <string>vstem 159 41</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

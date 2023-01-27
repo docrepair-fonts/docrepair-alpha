@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="2">
+  <advance width="289"/>
+  <unicode hex="0328"/>
+  <anchor x="115" y="-0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="226" y="-170" type="line"/>
+      <point x="195" y="-170" type="line" smooth="yes"/>
+      <point x="155" y="-170"/>
+      <point x="139" y="-146"/>
+      <point x="144" y="-89" type="curve" smooth="yes"/>
+      <point x="150" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="72" y="-89" type="line" smooth="yes"/>
+      <point x="61" y="-198"/>
+      <point x="100" y="-248"/>
+      <point x="195" y="-248" type="curve" smooth="yes"/>
+      <point x="226" y="-248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w289m226,-170l195,-170c155,-170 139,-146 144,-89l150,0l79,0l72,-89c61,-198 100,-248 195,-248l226,-248</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -204 21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

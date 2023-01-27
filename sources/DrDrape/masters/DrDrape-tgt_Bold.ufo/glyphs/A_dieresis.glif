@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="924"/>
+  <unicode hex="00C4"/>
+  <anchor x="464" y="-0" name="bottom"/>
+  <anchor x="734" y="1" name="ogonek"/>
+  <anchor x="464" y="1662" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresiscomb" xOffset="184" yOffset="357"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="2">
+  <advance width="804"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="645" y="-7" type="curve" smooth="yes"/>
+      <point x="666" y="-7"/>
+      <point x="685" y="-5"/>
+      <point x="701" y="2" type="curve"/>
+      <point x="701" y="108" type="line"/>
+      <point x="680" y="106"/>
+      <point x="667" y="105"/>
+      <point x="646" y="105" type="curve" smooth="yes"/>
+      <point x="584" y="105"/>
+      <point x="572" y="128"/>
+      <point x="571" y="201" type="curve"/>
+      <point x="571" y="843" type="line"/>
+      <point x="685" y="843" type="line"/>
+      <point x="685" y="972" type="line"/>
+      <point x="103" y="972" type="line"/>
+      <point x="103" y="843" type="line"/>
+      <point x="207" y="843" type="line"/>
+      <point x="207" y="0" type="line" name=".hr01"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="843" type="line"/>
+      <point x="442" y="843" type="line"/>
+      <point x="442" y="215" type="line" smooth="yes"/>
+      <point x="442" y="57"/>
+      <point x="498" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0b197b71b79b502662fc52f37b2172ec496149e04e48dc74b91ee920de3ed0c487b9d2aed6451f67453189425db05810f270e00c7bb91dc563f368e31f2d9fb6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 70</string>
+          <string>hstem 895 77</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 895 77</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="479"/>
+  <unicode hex="0308"/>
+  <anchor x="244" y="1071" name="_top"/>
+  <anchor x="244" y="1258" name="top"/>
+  <outline>
+    <contour>
+      <point x="363" y="1169" type="line"/>
+      <point x="363" y="1284" type="line"/>
+      <point x="270" y="1284" type="line"/>
+      <point x="270" y="1169" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="1169" type="line"/>
+      <point x="219" y="1284" type="line"/>
+      <point x="126" y="1284" type="line"/>
+      <point x="126" y="1169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w479m363,1169l363,1284l270,1284l270,1169m219,1169l219,1284l126,1284l126,1169</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1062 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
